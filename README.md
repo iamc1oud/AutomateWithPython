@@ -1,4 +1,6 @@
+# Just fork and contribute your scripts 🤩
 # AutomateWithPython
+
 If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. 
 But what if you could have your computer do them for you?  In Automate the Boring Stuff with Python, you'll learn how to use Python 
 to write programs that do in minutes what would take you hours to do by hand-no prior programming experience required. Once you've
